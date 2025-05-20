@@ -1,0 +1,61 @@
+{
+    "boxes": [
+        {
+            "id": "1",
+            "label": "DHelmetP1Helmet",
+            "x": "206.63",
+            "y": "463.22",
+            "width": "51.27",
+            "height": "109.77",
+            "confidence": null
+        },
+        {
+            "id": "2",
+            "label": "DHelmetP1Helmet",
+            "x": "878.89",
+            "y": "389.07",
+            "width": "35.77",
+            "height": "71.47",
+            "confidence": null
+        },
+        {
+            "id": "3",
+            "label": "DHelmetP1Helmet",
+            "x": "802.76",
+            "y": "234.99",
+            "width": "24.92",
+            "height": "52.05",
+            "confidence": null
+        },
+        {
+            "id": "4",
+            "label": "DHelmet",
+            "x": "842.74",
+            "y": "223.40",
+            "width": "27.88",
+            "height": "55.51",
+            "confidence": null
+        },
+        {
+            "id": "5",
+            "label": "DHelmet",
+            "x": "819.05",
+            "y": "163.35",
+            "width": "21.96",
+            "height": "38.09",
+            "confidence": null
+        },
+        {
+            "id": "6",
+            "label": "DHelmet",
+            "x": "337.83",
+            "y": "692.19",
+            "width": "87.43",
+            "height": "55.61",
+            "confidence": null
+        }
+    ],
+    "height": 720,
+    "key": "medellin_20.jpg",
+    "width": 1280
+}

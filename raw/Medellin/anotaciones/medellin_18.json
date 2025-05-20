@@ -1,0 +1,16 @@
+{
+    "boxes": [
+        {
+            "id": "1",
+            "label": "DHelmet",
+            "x": "738.18",
+            "y": "240.41",
+            "width": "36.88",
+            "height": "64.81",
+            "confidence": null
+        }
+    ],
+    "height": 720,
+    "key": "medellin_18.jpg",
+    "width": 1280
+}
