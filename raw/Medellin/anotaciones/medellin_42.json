@@ -1,0 +1,97 @@
+{
+    "boxes": [
+        {
+            "id": "1",
+            "label": "DHelmet",
+            "x": "615.00",
+            "y": "695.00",
+            "width": "56.00",
+            "height": "50.00",
+            "confidence": null
+        },
+        {
+            "id": "2",
+            "label": "DHelmet",
+            "x": "615.00",
+            "y": "480.00",
+            "width": "40.00",
+            "height": "96.00",
+            "confidence": null
+        },
+        {
+            "id": "3",
+            "label": "DHelmet",
+            "x": "638.50",
+            "y": "373.50",
+            "width": "27.00",
+            "height": "67.00",
+            "confidence": null
+        },
+        {
+            "id": "4",
+            "label": "DHelmet",
+            "x": "595.00",
+            "y": "312.00",
+            "width": "24.00",
+            "height": "56.00",
+            "confidence": null
+        },
+        {
+            "id": "5",
+            "label": "DHelmet",
+            "x": "543.00",
+            "y": "385.50",
+            "width": "28.00",
+            "height": "71.00",
+            "confidence": null
+        },
+        {
+            "id": "6",
+            "label": "DHelmet",
+            "x": "506.00",
+            "y": "334.50",
+            "width": "30.00",
+            "height": "63.00",
+            "confidence": null
+        },
+        {
+            "id": "7",
+            "label": "DHelmet",
+            "x": "622.00",
+            "y": "162.50",
+            "width": "14.00",
+            "height": "27.00",
+            "confidence": null
+        },
+        {
+            "id": "8",
+            "label": "DHelmet",
+            "x": "723.50",
+            "y": "156.00",
+            "width": "9.00",
+            "height": "30.00",
+            "confidence": null
+        },
+        {
+            "id": "9",
+            "label": "DHelmet",
+            "x": "654.50",
+            "y": "294.50",
+            "width": "27.00",
+            "height": "51.00",
+            "confidence": null
+        },
+        {
+            "id": "A",
+            "label": "DHelmet",
+            "x": "692.00",
+            "y": "225.00",
+            "width": "16.00",
+            "height": "36.00",
+            "confidence": null
+        }
+    ],
+    "height": 720,
+    "key": "medellin_42.jpg",
+    "width": 1280
+}

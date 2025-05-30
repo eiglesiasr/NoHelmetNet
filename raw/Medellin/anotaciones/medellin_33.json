@@ -1,0 +1,25 @@
+{
+    "boxes": [
+        {
+            "id": "1",
+            "label": "DHelmet",
+            "x": "286.50",
+            "y": "467.50",
+            "width": "63.00",
+            "height": "111.00",
+            "confidence": null
+        },
+        {
+            "id": "2",
+            "label": "DHelmet",
+            "x": "776.00",
+            "y": "227.00",
+            "width": "32.00",
+            "height": "64.00",
+            "confidence": null
+        }
+    ],
+    "height": 720,
+    "key": "medellin_33.jpg",
+    "width": 1280
+}

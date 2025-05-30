@@ -3,14 +3,14 @@
         {
             "id": "1",
             "label": "DHelmet",
-            "x": "460.00",
-            "y": "612.00",
-            "width": "78.00",
-            "height": "158.00",
+            "x": "453.00",
+            "y": "447.00",
+            "width": "70.00",
+            "height": "142.00",
             "confidence": null
         }
     ],
     "height": 720,
-    "key": "medellin_1.jpg",
+    "key": "medellin_90.jpg",
     "width": 1280
 }

@@ -1,0 +1,43 @@
+{
+    "boxes": [
+        {
+            "id": "1",
+            "label": "DHelmet",
+            "x": "501.50",
+            "y": "246.00",
+            "width": "29.00",
+            "height": "58.00",
+            "confidence": null
+        },
+        {
+            "id": "2",
+            "label": "DHelmet",
+            "x": "899.00",
+            "y": "295.50",
+            "width": "40.00",
+            "height": "65.00",
+            "confidence": null
+        },
+        {
+            "id": "3",
+            "label": "DHelmetP1Helmet",
+            "x": "517.00",
+            "y": "179.50",
+            "width": "30.00",
+            "height": "51.00",
+            "confidence": null
+        },
+        {
+            "id": "4",
+            "label": "DHelmet",
+            "x": "273.50",
+            "y": "273.00",
+            "width": "73.00",
+            "height": "54.00",
+            "confidence": null
+        }
+    ],
+    "height": 720,
+    "key": "medellin_68.jpg",
+    "width": 1280
+}

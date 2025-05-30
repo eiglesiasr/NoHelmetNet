@@ -1,0 +1,88 @@
+{
+    "boxes": [
+        {
+            "id": "1",
+            "label": "DHelmet",
+            "x": "222.50",
+            "y": "652.50",
+            "width": "63.00",
+            "height": "135.00",
+            "confidence": null
+        },
+        {
+            "id": "2",
+            "label": "DHelmetP1Helmet",
+            "x": "368.50",
+            "y": "375.50",
+            "width": "41.00",
+            "height": "89.00",
+            "confidence": null
+        },
+        {
+            "id": "3",
+            "label": "DHelmet",
+            "x": "468.50",
+            "y": "178.50",
+            "width": "27.00",
+            "height": "59.00",
+            "confidence": null
+        },
+        {
+            "id": "4",
+            "label": "DHelmet",
+            "x": "500.93",
+            "y": "54.63",
+            "width": "15.36",
+            "height": "25.01",
+            "confidence": null
+        },
+        {
+            "id": "5",
+            "label": "DHelmet",
+            "x": "530.33",
+            "y": "35.55",
+            "width": "12.73",
+            "height": "25.45",
+            "confidence": null
+        },
+        {
+            "id": "6",
+            "label": "DHelmet",
+            "x": "568.95",
+            "y": "41.91",
+            "width": "13.60",
+            "height": "27.65",
+            "confidence": null
+        },
+        {
+            "id": "7",
+            "label": "DHelmet",
+            "x": "532.52",
+            "y": "114.10",
+            "width": "17.11",
+            "height": "36.86",
+            "confidence": null
+        },
+        {
+            "id": "8",
+            "label": "DHelmet",
+            "x": "713.54",
+            "y": "100.27",
+            "width": "20.19",
+            "height": "39.93",
+            "confidence": null
+        },
+        {
+            "id": "9",
+            "label": "DHelmetP1Helmet",
+            "x": "754.57",
+            "y": "103.78",
+            "width": "22.38",
+            "height": "39.93",
+            "confidence": null
+        }
+    ],
+    "height": 720,
+    "key": "medellin_26.jpg",
+    "width": 1280
+}
