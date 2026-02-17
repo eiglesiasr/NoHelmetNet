@@ -1,8 +1,9 @@
 # NoHelmetNet
-Proyecto materia Vision por Computación que hace clasificacion de imagenes utilizando YoloV8
+Proyecto materia Vision por Computación 
+El objetivo es a través de YoloV8 realizar clasificación de imagenes reales del tráfico para determinar si los pasajeros sobre una moto llevan casco o no.
 
 ## Clases y Encoding
-El modelo consta de detección de 36 clases, en función de renocer cuantos pasasjeros lleva la moto, así como si llevan casco o no:
+El modelo consta de detección de 36 clases, en función de renocer cuantos pasajeros lleva la moto, así como si llevan casco o no:
 
 | Label Description                                | Class ID |
 |--------------------------------------------------|----------|
