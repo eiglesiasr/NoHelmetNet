@@ -1,5 +1,5 @@
 # NoHelmetNet
-Proyecto materia Vision por Computación que hace claisificacion de imagenes utilizando YoloV8
+Proyecto materia Vision por Computación que hace clasificacion de imagenes utilizando YoloV8
 
 ## Clases y Encoding
 El modelo consta de detección de 36 clases, en función de renocer cuantos pasasjeros lleva la moto, así como si llevan casco o no:
